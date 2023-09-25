@@ -1,8 +1,8 @@
 ---
-version: 7.13.2
+version: 7.13.1
 slug: git_pull
 name: Git pull
-description: Simple git pull to update the local configuration
+description: Simple git pull to update the local configuration (fork)
 url: https://github.com/danielgomezrico/addons/tree/master/git_pull
 advanced: true
 arch:
